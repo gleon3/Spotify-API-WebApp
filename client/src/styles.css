@@ -1,0 +1,31 @@
+.App {
+  font-family: "Arimo", sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: "Arimo", sans-serif;
+  background-color: #1b1b1b;
+  font-size: 1.5vw;
+}
+
+.dropdown-menu {
+  overflow-x: scroll;
+  overflow-y: scroll;
+  max-height: 100vh;
+  min-width: 0;
+  max-width: 140%;
+  background-color: #000000;
+  padding: 0vw;
+  border-radius: 0;
+}
+
+.dropdown-item {
+  color: #a8a8a8;
+  font-size: 1.5vw;
+  padding: 0.5vw;
+}
+
+.navbar {
+  width: 100%;
+}
