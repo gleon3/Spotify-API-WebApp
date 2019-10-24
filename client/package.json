@@ -4,6 +4,10 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.16.3"
+  },
   "dependencies": {
     "bootstrap": "4.3.1",
     "react": "16.8.6",

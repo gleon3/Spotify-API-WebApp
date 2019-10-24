@@ -14,6 +14,7 @@ var querystring = require('querystring');
 var cookieParser = require('cookie-parser');
 
 var redirect_uri = process.env.REDIRECT_URI || 'http://localhost:8888/callback'; // Your redirect uri
+var port = process.env.PORT || 8888
 
 /**
  * Generates a random string containing numbers and letters
@@ -143,5 +144,5 @@ app.get('/refresh_token', function(req, res) {
   });
 });
 
-console.log('Listening on 8888');
-app.listen(8888);
+console.log('Listening on ' + port);
+app.listen(port);
