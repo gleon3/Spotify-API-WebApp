@@ -2,8 +2,6 @@
 
 Solver and generator for standard Sudoku, XSudoku and HyperSudoku
 
-## Key Features
-
 ## How to use
 
 
