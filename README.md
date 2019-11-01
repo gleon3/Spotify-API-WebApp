@@ -4,7 +4,7 @@ Solver and generator for standard Sudoku, XSudoku and HyperSudoku
 
 ## How to use
 
-
+Go to https://get-track-information-backend.herokuapp.com/ and log in with your Spotify account.
 
 To clone and run this application, you'll need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](https://www.npmjs.com/)) installed on your computer. From your command line:
 
