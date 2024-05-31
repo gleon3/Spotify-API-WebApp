@@ -1,6 +1,6 @@
-# Sudoku
+# Spotify API WebApp
 
-Solver and generator for standard Sudoku, XSudoku and HyperSudoku
+Webapp using spotify API
 
 ## How to use
 
